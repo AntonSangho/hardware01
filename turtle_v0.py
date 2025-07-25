@@ -6,6 +6,7 @@
 
 MVP: Minimum Viable Product
 최소 기능 제품 
+test
 """
 
 import serial
